@@ -1,0 +1,6 @@
+[{:name "Hugh" :email "hugh@somewhere.com" :gender "boy"}
+ {:name "Pugh" :email "pugh@somewhere.com" :gender "girl"}
+ {:name "Barney" :email barney@somewhere.com"" :gender "boy"}
+ {:name "Cuthbert" :email "cuthbert@somewhere.com" :gender "girl"}
+ {:name "Dibble" :email "dibble@somewhere.com" :gender "boy"}
+ {:name "Grubb" :email "grubb@somewhere.com" :gender "girl"}]

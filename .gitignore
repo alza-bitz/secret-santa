@@ -1,0 +1,17 @@
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/lib/
+/classes/
+/target/
+/checkouts/
+.cpcache/
+.cljs_node_repl
+package-lock.json
+node_modules
+/out/
+/cljs-test-runner-out/
+.nrepl-port
+users.edn
+*.txt
