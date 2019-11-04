@@ -12,6 +12,7 @@
   "Return unique pairings of users consisting of a giver and a receiver"
   [users]
   (->> users
+       shuffle
        cycle
        (take (+ 1 (count users)))
        (partition 2 1)
